@@ -47,5 +47,6 @@ The focus of this activity is to learn and apply basic GitHub workflows — incl
 - Initialize with a README.md file
 
 ### 3️⃣ Clone the Repository  
-```bash
+```bash 
+https://github.com/fuwadog/app-dev.git
 
